@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.papa{
+    display: flex;
+    justify-content: center;
+}
+
+.hijo1{
+    margin: 0 100px;
+}
